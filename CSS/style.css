@@ -1,0 +1,19 @@
+h1{
+        background: #C4C4C4;
+        color: rgba(0, 86, 119, 1);
+
+
+}
+   
+
+h2{
+        background: #C4C4C4;
+        color: rgba(0, 86, 119, 1);
+        line-height: 20px;
+}
+
+footer{
+        color: white;
+        background: rgba(0, 86, 119, 1);
+        text-align: center
+}
